@@ -24,7 +24,8 @@ body {
     background: #050505;
     color: #f5f5f5;
     font-family: 'Inter', sans-serif;
-    overflow-x: hidden;
+   
+   -x: hidden;
 }
 
 body,
@@ -320,7 +321,7 @@ button {
 .hero h1 {
     font-size: clamp(4.5rem, 10.5vw, 11rem);
     font-weight: 900;
-    letter-spacing: -0.095em;
+    letter-spacing: -0.075em;
     line-height: 0.79;
     text-transform: uppercase;
 }
